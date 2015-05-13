@@ -1,0 +1,7 @@
+[package]
+name = "euler_in_rust"
+version = "0.1.0"
+authors = ["Kevin Lee <kevinmlee.x@gmail.com>"]
+
+[dependencies]
+num = "*"
